@@ -1,0 +1,19 @@
+.bg-dark{
+    background-color: skyblue !important;
+}
+.navbar-brand{
+    font-weight: bold;
+    font-family: 'Courier New';
+    font-size: 28px;
+}
+.navbar-dark .navbar-nav .nav-link{
+    font-weight: 700;
+    font-size: 14px;
+    color: slategray;
+}
+.navbar-dark .navbar-nav .nav-item{
+    margin: 0 15px;
+}
+main{
+    margin-top: 107px;
+}
